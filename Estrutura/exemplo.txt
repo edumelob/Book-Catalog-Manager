@@ -1,0 +1,11 @@
+📚 GERENCIADOR DE CATÁLOGO DE LIVROS 📚
+1 - Adicionar livro
+2 - Listar livros
+3 - Buscar livro
+4 - Sair
+Escolha uma opção: 1
+Título: Dom Casmurro
+Autor: Machado de Assis
+Ano: 1899
+Gênero: Romance
+✅ Livro 'Dom Casmurro' adicionado com sucesso!
